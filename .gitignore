@@ -1,0 +1,7 @@
+*.DS_Store
+
+# exclude notebook checkpoints
+.ipynb_checkpoints
+
+# exclude run script
+
